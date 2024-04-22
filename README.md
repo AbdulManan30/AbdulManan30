@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdul Manan
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Backend Development
+- 📫 How to reach me? Message on my linkedin profile
+- ⚡ Fun fact: Sleep all day.
