@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Manan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Front-End+Developer+%7C+React+Specialist;Transitioning+into+AI+%26+ML;Lifelong+Learner+%7C+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer+%7C+React+Specialist;Transitioning+into+AI+%26+ML;Lifelong+Learner+%7C+Tech+Enthusiast)
 
 ---
 
@@ -11,56 +11,62 @@ Recently, I’ve started exploring the world of **Artificial Intelligence and Ma
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies (Animated Icons)
 
 ### 💻 Frontend:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" alt="React" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" alt="Bootstrap" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="40" alt="Tailwind CSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" alt="GSAP" />
+</p>
 
 ### 🤖 AI/ML (Learning):
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn" />
+</p>
 
 ### 🧰 Tools:
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor.AI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Blackbox AI](https://img.shields.io/badge/Blackbox.AI-111111?style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40" alt="VS Code" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" alt="Git" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40" alt="GitHub" />
+  <img src="https://media.giphy.com/media/eLXpTmyRSME3M5gFz5/giphy.gif" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack" />
+  <img src="https://avatars.githubusercontent.com/u/14748779?s=200&v=4" width="40" title="Cursor AI" />
+  <img src="https://avatars.githubusercontent.com/u/141104777?s=200&v=4" width="40" title="Claude AI" />
+  <img src="https://assets-global.website-files.com/643d7edcf3e65416aa5ed650/643d7edcf3e65453ff5ed6c7_blackbox.ai-seeklogo.com.png" width="40" title="Blackbox AI" />
+</p>
 
 ---
 
 ## 🌱 My Journey
 
-- 🚀 Started my development journey 2 years ago
-- 💻 Built clones of Spotify, Netflix, Twitter, and more using HTML/CSS/JS
-- 🔥 Worked remotely as a Front-End Developer at Technics Lab
-- 🧠 Currently learning **AI/ML** to build intelligent apps
-- 📚 Exploring data science, model building, and chatbots using Python
+- 🚀 Started my development journey 2 years ago  
+- 💻 Built clones of Spotify, Netflix, Twitter, and more using HTML/CSS/JS  
+- 🔥 Worked remotely as a freelancer on Upwork
+- 🧠 Currently learning **AI/ML** to build intelligent apps  
+- 📚 Exploring data science, model building, and chatbots using Python  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manan-coder&show_icons=true&theme=tokyonight)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manan-coder&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manan-coder&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
 
-📧 **abdul.manan232332@gmail.com**
+📧 **abdulmanan.official365@gmail.com**
 
 ---
 
