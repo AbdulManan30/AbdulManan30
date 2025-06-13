@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Manan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer+%7C+React+Specialist;Transitioning+into+AI+%26+ML;Lifelong+Learner+%7C+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+Specialist;Transitioning+into+AI+%26+ML;Lifelong+Learner+%7C+Tech+Enthusiast)
 
 ---
 
