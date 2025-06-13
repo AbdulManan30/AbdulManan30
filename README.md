@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Manan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+Specialist;Transitioning+into+AI+%26+ML;Lifelong+Learner+%7C+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=600&lines=Front-End+Developer+%7C+React+Specialist;Transitioning+into+AI+%26+ML;Lifelong+Learner+%7C+Tech+Enthusiast)
 
 ---
 
@@ -11,38 +11,37 @@ Recently, I’ve started exploring the world of **Artificial Intelligence and Ma
 
 ---
 
-## 🛠️ Skills & Technologies (Animated Icons)
+## 🛠️ Skills & Technologies
 
-### 💻 Frontend:
+### 💻 Front-End
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" alt="React" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="40" alt="Bootstrap" />
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="40" alt="Tailwind CSS" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" alt="GSAP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
 </p>
 
-### 🤖 AI/ML (Learning):
+### 🤖 AI/ML (Learning)
 <p>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="Scikit-learn" />
 </p>
 
-### 🧰 Tools:
+### 🧰 Tools
 <p>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40" alt="VS Code" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" alt="Git" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40" alt="GitHub" />
-  <img src="https://media.giphy.com/media/eLXpTmyRSME3M5gFz5/giphy.gif" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack" />
-  <img src="https://avatars.githubusercontent.com/u/14748779?s=200&v=4" width="40" title="Cursor AI" />
-  <img src="https://avatars.githubusercontent.com/u/141104777?s=200&v=4" width="40" title="Claude AI" />
-  <img src="https://assets-global.website-files.com/643d7edcf3e65416aa5ed650/643d7edcf3e65453ff5ed6c7_blackbox.ai-seeklogo.com.png" width="40" title="Blackbox AI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://www.cursor.com/assets/images/logo.svg" width="40" alt="Cursor Ai" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="40" alt="Claude Ai" />
+  <img src="https://img.icons8.com/?size=256&id=Uc932Kf1WRYu&format=png" width="40" alt="Claude Ai" />
+  
 </p>
 
 ---
@@ -51,7 +50,7 @@ Recently, I’ve started exploring the world of **Artificial Intelligence and Ma
 
 - 🚀 Started my development journey 2 years ago  
 - 💻 Built clones of Spotify, Netflix, Twitter, and more using HTML/CSS/JS  
-- 🔥 Worked remotely as a freelancer on Upwork
+- 🔧 Worked on Upwork as a Frontend Developer 
 - 🧠 Currently learning **AI/ML** to build intelligent apps  
 - 📚 Exploring data science, model building, and chatbots using Python  
 
