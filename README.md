@@ -13,35 +13,38 @@ Recently, I’ve started exploring the world of **Artificial Intelligence and Ma
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Front-End
+### 💻 Front-End  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/?size=256&id=4PiNHtUJVbLs&format=png" width="40" alt="Tailwind CSS" />
 </p>
 
-### 🤖 AI/ML (Learning)
+<br/>
+
+### 🤖 AI/ML (Learning)  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="Scikit-learn" />
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="40" alt="Scikit-learn" />
 </p>
 
-### 🧰 Tools
+<br/>
+
+### 🧰 Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://www.cursor.com/assets/images/logo.svg" width="40" alt="Cursor Ai" />
+  <img src="https://img.icons8.com/?size=256&id=DiGZkjCzyZXn&format=png" width="40" alt="Cursor Ai" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="40" alt="Claude Ai" />
-  <img src="https://img.icons8.com/?size=256&id=Uc932Kf1WRYu&format=png" width="40" alt="Claude Ai" />
-  
+  <img src="https://img.icons8.com/?size=256&id=Uc932Kf1WRYu&format=png" width="40" alt="Blackbox Ai" />
 </p>
 
 ---
@@ -65,7 +68,7 @@ Recently, I’ve started exploring the world of **Artificial Intelligence and Ma
 
 ## 📫 Contact Me
 
-📧 **abdulmanan.official365@gmail.com**
+📧 **abdul.manan232332@gmail.com**
 
 ---
 
