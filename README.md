@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a self-taught **Front-End Developer** with **2+ years of experience**, passionate about building beautiful and responsive UIs using modern tools like **React.js**.  
-Recently, I’ve started exploring the world of **Artificial Intelligence and Machine Learning** with **Python**, driven by curiosity and a desire to solve real-world problems with data.
+I've been working as a self-taught **front-end developer** for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.html.
+I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.
 
 ---
 
