@@ -71,8 +71,8 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ## 📫 Contact Me
 
-<div>abdul.manan232332@gmail.com</div>
-<div>abdul-manan.vercel.app</div>
+📧 Email: [abdul.manan232332@gmail.com](mailto:abdul.manan232332@gmail.com)  
+- 🌐 Portfolio: [abdul-manan.vercel.app](https://abdul-manan.vercel.app)
 
 
 ---
