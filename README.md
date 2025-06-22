@@ -73,10 +73,9 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ## 📫 Contact Me
 
-
- <a href="abdul.manan232332@gmail.com">Gmail</a>
+<h3>abdul.manan232332@gmail.com</h3>
  <br/>
- <a href="abdul-manan.vercel.app">Portfolio</a>
+<h3>abdul-manan.vercel.app</h3>
 
 
 ---
