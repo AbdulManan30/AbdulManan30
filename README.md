@@ -70,7 +70,9 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ## 📫 Contact Me
 
-📧 **abdul.manan232332@gmail.com**
+ **abdul.manan232332@gmail.com**
+ <a href="abdul-manan.vercel.app">Portfolio</a>
+
 
 ---
 
