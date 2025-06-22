@@ -73,9 +73,8 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ## 📫 Contact Me
 
-<h3>abdul.manan232332@gmail.com</h3>
- <br/>
-<h3>abdul-manan.vercel.app</h3>
+<div>abdul.manan232332@gmail.com</div>
+<div>abdul-manan.vercel.app</div>
 
 
 ---
