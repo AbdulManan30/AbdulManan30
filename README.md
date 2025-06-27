@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I've been working as a self-taught **front-end developer** for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.js.
 I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.
