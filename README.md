@@ -18,6 +18,7 @@
   I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.
   <h4></h4>
   <img align="center" alt="Coding" width="fit-content" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp">
+  <h4></h4>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
