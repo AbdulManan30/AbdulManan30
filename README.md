@@ -63,13 +63,13 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ##  GitHub Stats
 
-<p align="center">
+<span align="center">
   <img width="446" style="margin-right: 25px;" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight" alt="Abdul Manan's GitHub Stats" />
-</p>
+</span>
 
-<p align="center">
+<span align="center">
   <img width="400" style="margin-left: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</span>
 
 
 
