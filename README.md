@@ -1,4 +1,7 @@
-# <div align="center">👨‍💻 Abdul Manan</div>
+# <div align="center">
+<img src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif">
+<span>Abdul Manan</span>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Specialist;AI+%26+ML+Enthusiast;Building+the+Future+with+Code;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
@@ -9,56 +12,10 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+<img align="center" alt="Coding" width="400" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```typescript
-interface Developer {
-    name: string;
-    pronouns: "He" | "Him";
-    code: string[];
-    askMeAbout: string[];
-    technologies: {
-        frontEnd: {
-            js: string[];
-            ts: string[];
-            css: string[];
-            uiux: string[];
-        };
-        backEnd: {
-            python: string[];
-            js: string[];
-        };
-        databases: string[];
-        misc: string[];
-    };
-    currentFocus: string;
-    funFact: string;
-}
-
-const abdulManan: Developer = {
-    name: "Abdul Manan",
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["Web Development", "Frontend", "React", "TypeScript", "AI/ML"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux", "JavaScript"],
-            ts: ["TypeScript", "Next.js", "React with TS"],
-            css: ["Bootstrap", "Tailwind CSS", "Material UI", "Styled Components"],
-            uiux: ["Figma", "Adobe XD"]
-        },
-        backEnd: {
-            python: ["Django", "FastAPI"],
-            js: ["Node.js", "Express", "TypeScript"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        misc: ["Socket.IO", "Selenium", "Jest", "Cypress"]
-    },
-    currentFocus: "Building type-safe AI-powered web applications",
-    funFact: "I love TypeScript because it catches my bugs before my users do! 🐛➡️✅"
-};
-```
+<p>I've been working as a self-taught **front-end developer** for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.js.
+I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -68,19 +25,19 @@ const abdulManan: Developer = {
 
 <div align="center">
 
-### 🎨 **Frontend Development**
+###  **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux,typescript" />
 </p>
 
 ### 🤖 **AI/ML & Data Science**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv,jupyter,numpy,pandas,matplotlib" />
 </p>
 
 ### 🛠️ **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow,slack,jira" />
 </p>
 
 </div>
@@ -91,32 +48,14 @@ const abdulManan: Developer = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **My Coding Journey**
 
-<div align="center">
+<img style="border-radius: 20px;" align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-```mermaid
-gitgraph
-    commit id: "🎯 Started Coding Journey"
-    commit id: "🌐 HTML/CSS/JS Mastery"
-    commit id: "⚛️ React Specialist"
-    branch upwork
-    commit id: "💼 Freelance Success"
-    checkout main
-    commit id: "🤖 AI/ML Learning"
-    commit id: "🚀 Building Future"
-```
-
-</div>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🎯 **Milestones Achieved**
-- 🚀 **2+ Years** of Frontend Development Experience
-- 💼 **Freelance Success** on Upwork as Frontend Developer  
-- 🏆 **Built Amazing Clones**: Spotify, Netflix, Twitter & More
-- ⚡ **TypeScript Enthusiast**: Building type-safe applications
-- 🤖 **Currently Mastering**: AI/ML with Python
-- 📱 **Exploring**: Data Science, Model Building & Chatbots
-- 🌱 **Learning**: Advanced React Patterns & Performance Optimization
+-  **2+ Years** of Frontend Development Experience
+-  **Freelance Success** on Upwork as Frontend Developer  
+-  **Built Amazing Clones**: Spotify, Netflix, Twitter & More
+-  **Currently Mastering**: AI/ML with Python
+-  **Exploring**: Data Science, Model Building & Chatbots
+-  **Learning**: Advanced Ai Models & Ml
 
 <br clear="both" />
 
@@ -127,8 +66,8 @@ gitgraph
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulManan30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=algolia" alt="Github Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=algolia" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
@@ -155,28 +94,13 @@ gitgraph
   <img src="https://img.shields.io/github/followers/AbdulManan30?label=Followers&style=social" alt="GitHub Badge">
 </div>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Fun Facts & Quotes**
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-### 🎯 **Current Goals for 2025**
-- 🚀 Master Machine Learning & AI Integration
-- 📱 Build 5 Full-Stack Applications
-- 🏆 Contribute to 10+ Open Source Projects
-- 📚 Write Technical Blogs
-- 🌍 Launch My First SaaS Product
-
-</div>
-
 ---
 
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!** 
 
-**Let's build something amazing together!** 🚀
+**Let's build something amazing together!** 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Animation" />
 
