@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux,typescript" />
 </p>
 
-### 🤖 **AI/ML & Data Science**
+### 🤖 **AI/ML & Data Science(learning)**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv" />
 </p>
