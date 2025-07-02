@@ -1,10 +1,10 @@
 <div align="center">
-  <img align="center" src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="70px">
-  <h3>Abdul Manan</h3>
+  <img src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="90px" style="margin-bottom: -10px;" />
+  <h2 style="margin-top: 5px; font-size: 26px;">Abdul Manan</h2>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Specialist;AI+%26+ML+Enthusiast;Building+the+Future+with+Code;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Specialist;AI+%26+ML+Enthusiast;Building+the+Future+with+Code;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
 </div>
 
 <div align="center">
