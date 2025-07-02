@@ -64,7 +64,7 @@ I'm interested in using data to address practical issues, which is why I've just
 ##  GitHub Stats
 
 <span align="center">
-  <img width="445" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight" alt="Abdul Manan's GitHub Stats" />
+  <img width="446.5" style="margen-right: 20px" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight" alt="Abdul Manan's GitHub Stats" />
 </span>
 
 <span align="center">
