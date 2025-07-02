@@ -1,5 +1,5 @@
 <img align="left" src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="50px">
-Abdul Manan
+<b>Abdul Manan</b>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Specialist;AI+%26+ML+Enthusiast;Building+the+Future+with+Code;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
