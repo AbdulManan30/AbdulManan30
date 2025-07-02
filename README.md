@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="90px" style="margin-bottom: -30px;" />
+  <img src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="90px" style="margin-bottom: -80px;" />
   <h2 style="margin-top: 5px; font-size: 36px;">Abdul Manan</h2>
 </div>
 
