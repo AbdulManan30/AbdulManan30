@@ -11,9 +11,9 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Front-End  
+### Front-End  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
@@ -27,7 +27,7 @@ I'm interested in using data to address practical issues, which is why I've just
 
 <br/>
 
-### 🤖 AI/ML (Learning)  
+###  AI/ML (Learning)  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
@@ -38,7 +38,7 @@ I'm interested in using data to address practical issues, which is why I've just
 
 <br/>
 
-### 🧰 Tools  
+###  Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
@@ -51,17 +51,17 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ---
 
-## 🌱 My Journey
+##  My Journey
 
-- 🚀 Started my development journey 2 years ago  
-- 💻 Built clones of Spotify, Netflix, Twitter, and more using HTML/CSS/JS  
-- 🔧 Worked on Upwork as a Frontend Developer 
-- 🧠 Currently learning **AI/ML** to build intelligent apps  
-- 📚 Exploring data science, model building, and chatbots using Python  
+-  Started my development journey 2 years ago  
+-  Built clones of Spotify, Netflix, Twitter, and more using HTML/CSS/JS  
+-  Worked on Upwork as a Frontend Developer 
+-  Currently learning **AI/ML** to build intelligent apps  
+-  Exploring data science, model building, and chatbots using Python  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Abdul Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight)
 
@@ -69,7 +69,7 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 Email: [abdul.manan232332@gmail.com](mailto:abdul.manan232332@gmail.com)  
 🌐 Portfolio: [abdul-manan.vercel.app](https://abdul-manan.vercel.app)
