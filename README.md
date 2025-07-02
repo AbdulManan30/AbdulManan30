@@ -73,11 +73,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=algolia" alt="Github Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=algolia" alt="Most Used Languages"/>
 </div>
-
+<h2></h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulManan30&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </div>
-
+<h2></h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulManan30&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
