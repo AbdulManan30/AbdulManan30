@@ -68,7 +68,7 @@ I'm interested in using data to address practical issues, which is why I've just
 </span>
 
 <span align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=tokyonight" alt="Top Languages" />
 </span>
 
 
