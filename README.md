@@ -30,18 +30,18 @@
 <div align="center">
 
 ###  **Frontend Development**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux,typescript" />
 </p>
 
 ### 🤖 **AI/ML & Data Science**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv,jupyter,numpy,pandas,matplotlib" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv" />
 </p>
 
 ### 🛠️ **Tools & Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow,slack,jira" />
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow" />
 </p>
 
 </div>
