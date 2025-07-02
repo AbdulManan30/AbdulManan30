@@ -1,5 +1,4 @@
-
-<img align="left" src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="40px">
+<img align="left" src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="50px">
 Abdul Manan
 
 <div align="center">
