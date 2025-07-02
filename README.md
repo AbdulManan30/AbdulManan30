@@ -63,15 +63,14 @@ I'm interested in using data to address practical issues, which is why I've just
 
 ##  GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight" 
-       alt="Abdul Manan's GitHub Stats" 
-       width="400" />
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight" alt="Abdul Manan's GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=tokyonight" 
-       alt="Top Langs" 
-       width="400" />
-</div>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 
 ---
