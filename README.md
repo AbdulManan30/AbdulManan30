@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="https://assests-neon.vercel.app/wired-lineal-680-it-developer-in-reveal.gif" width="70px">
-  <h2>Abdul Manan</h2>
+  <h3>Abdul Manan</h3>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-<img align="center" alt="Coding" width="400" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp">
+<img align="center" alt="Coding" width="100%" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp">
 
 <p>I've been working as a self-taught **front-end developer** for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.js.
 I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.</p>
