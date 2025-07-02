@@ -14,9 +14,9 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 <div align="center">
-  I've been working as a self-taught **front-end developer** for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.js.
+  I've been working as a self-taught front-end developer for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.js.
   I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.
-  <br/>
+  <h4></h4>
   <img align="center" alt="Coding" width="fit-content" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp">
 
 <div align="center">
