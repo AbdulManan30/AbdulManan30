@@ -1,89 +1,161 @@
-# 👋 Hi, I'm Abdul Manan
+# <div align="center">👨‍💻 Abdul Manan</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=600&lines=Front-End+Developer+%7C+React+Specialist;Currently+Learning+AI+%26+ML;)
-
----
-
-##  About Me
-
-I've been working as a self-taught **front-end developer** for almost two years, and I love creating stunning and responsive user interfaces with cutting-edge technologies like React.js.
-I'm interested in using data to address practical issues, which is why I've just started using Python to study machine learning and artificial intelligence.
-
----
-
-##  Skills & Technologies
-
-### Front-End  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-  <img src="https://img.icons8.com/?size=256&id=4PiNHtUJVbLs&format=png" width="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-</p>
-
-<br/>
-
-###  AI/ML (Learning)  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="40" alt="Scikit-learn" />
-</p>
-
-<br/>
-
-###  Tools  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://img.icons8.com/?size=256&id=DiGZkjCzyZXn&format=png" width="40" alt="Cursor Ai" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="40" alt="Claude Ai" />
-  <img src="https://img.icons8.com/?size=256&id=Uc932Kf1WRYu&format=png" width="40" alt="Blackbox Ai" />
-</p>
-
----
-
-##  My Journey
-
--  Started my development journey 2 years ago  
--  Built clones of Spotify, Netflix, Twitter, and more using HTML/CSS/JS  
--  Worked on Upwork as a Frontend Developer 
--  Currently learning **AI/ML** to build intelligent apps  
--  Exploring data science, model building, and chatbots using Python  
-
----
-
-##  GitHub Stats
-
-<div>
-  <img width="400"  src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=tokyonight" alt="Abdul Manan's GitHub Stats" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Specialist;AI+%26+ML+Enthusiast;Building+the+Future+with+Code;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
 </div>
 
-<div>
-  <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+```typescript
+const abdulManan = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Python", "HTML", "CSS"],
+    askMeAbout: ["Web Development", "Frontend", "React", "AI/ML"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux", "JavaScript"],
+            css: ["Bootstrap", "Tailwind CSS", "Material UI"],
+            uiux: ["Figma", "Adobe XD"]
+        },
+        backEnd: {
+            python: ["Django", "FastAPI"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["MongoDB", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO", "Selenium"]
+    },
+    currentFocus: "Building AI-powered web applications",
+    funFact: "I debug with console.log() and I'm proud of it!"
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills & Technologies**
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma" />
+</p>
+
+### 🤖 **AI/ML & Data Science**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,sklearn" />
+</p>
+
+### 🛠️ **Tools & Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,firebase" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulManan30&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **My Coding Journey**
+
+<div align="center">
+
+```mermaid
+gitgraph
+    commit id: "🎯 Started Coding Journey"
+    commit id: "🌐 HTML/CSS/JS Mastery"
+    commit id: "⚛️ React Specialist"
+    branch upwork
+    commit id: "💼 Freelance Success"
+    checkout main
+    commit id: "🤖 AI/ML Learning"
+    commit id: "🚀 Building Future"
+```
+
+</div>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+### 🎯 **Milestones Achieved**
+- 🚀 **2+ Years** of Frontend Development Experience
+- 💼 **Freelance Success** on Upwork as Frontend Developer  
+- 🏆 **Built Amazing Clones**: Spotify, Netflix, Twitter & More
+- 🤖 **Currently Mastering**: AI/ML with Python
+- 📱 **Exploring**: Data Science, Model Building & Chatbots
+- 🌱 **Learning**: Advanced React Patterns & Performance Optimization
+
+<br clear="both" />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulManan30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulManan30&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulManan30&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdul-manan.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdul.manan232332@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-manan-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdul_manan_dev)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulManan30&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AbdulManan30?label=Followers&style=social" alt="GitHub Badge">
+</div>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> **Fun Facts & Quotes**
+
+<div align="center">
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### 🎯 **Current Goals for 2025**
+- 🚀 Master Machine Learning & AI Integration
+- 📱 Build 5 Full-Stack Applications
+- 🏆 Contribute to 10+ Open Source Projects
+- 📚 Write Technical Blogs
+- 🌍 Launch My First SaaS Product
+
+</div>
 
 ---
 
-##  Contact Me
+<div align="center">
 
-📧 Email: [abdul.manan232332@gmail.com](mailto:abdul.manan232332@gmail.com)  
-🌐 Portfolio: [abdul-manan.vercel.app](https://abdul-manan.vercel.app)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!** 
 
+**Let's build something amazing together!** 🚀
 
----
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Animation" />
 
-⭐ **Thanks for visiting my profile!** Let’s build something awesome together.
-<br/>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
