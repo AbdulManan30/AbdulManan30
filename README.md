@@ -34,12 +34,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux,typescript" />
 </p>
 
-### 🤖 **AI/ML & Data Science(learning)**
+###  **AI/ML & Data Science(learning)**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv" />
 </p>
 
-### 🛠️ **Tools & Technologies**
+###  **Tools & Technologies**
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow" />
 </p>
