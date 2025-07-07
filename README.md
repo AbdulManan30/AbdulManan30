@@ -76,7 +76,7 @@ combining my front-end expertise with AI to create smart, data-driven applicatio
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulManan30&show_icons=true&theme=algolia" alt="Github Stats"/>
-  <img height="2880px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=algolia" alt="Most Used Languages"/>
+  <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulManan30&layout=compact&theme=algolia" alt="Most Used Languages"/>
 </div>
 <h2></h2>
 <div align="center">
