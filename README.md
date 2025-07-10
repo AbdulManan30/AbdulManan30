@@ -36,7 +36,7 @@ combining my front-end expertise with AI to create smart, data-driven applicatio
 
 ###  **Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux" />
 </p>
 
 ###  **AI/ML & Data Science (learning)**
