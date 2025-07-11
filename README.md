@@ -46,7 +46,7 @@ combining my front-end expertise with AI to create smart, data-driven applicatio
 
 ###  **Tools & Technologies**
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow, docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow,docker" />
 </p>
 
 </div>
