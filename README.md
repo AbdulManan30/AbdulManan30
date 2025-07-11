@@ -46,16 +46,8 @@ combining my front-end expertise with AI to create smart, data-driven applicatio
 
 ###  **Tools & Technologies**
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow, docker" />
 </p>
-
-# Skills
-
-| Category               | Technologies |
-|------------------------|--------------|
-| **Frontend Development**  | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux" /> |
-| **AI/ML & Data Science** *(Learning)* | <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv" /> |
-| **Tools & Technologies**  | <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow" /> |
 
 </div>
 
