@@ -53,9 +53,9 @@ combining my front-end expertise with AI to create smart, data-driven applicatio
 
 | Category               | Technologies |
 |------------------------|--------------|
-| **Frontend Development**  | <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,next" alt="Frontend Tech" /> |
-| **AI/ML & Data Science** *(Learning)* | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI/ML Tech" /> |
-| **Tools & Technologies**  | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postgres" alt="Tools" /> |
+| **Frontend Development**  | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,bootstrap,redux" /> |
+| **AI/ML & Data Science** *(Learning)* | <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,flask,opencv" /> |
+| **Tools & Technologies**  | <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,stackoverflow" /> |
 
 </div>
 
