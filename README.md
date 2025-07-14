@@ -80,10 +80,6 @@ combining my front-end expertise with AI to create smart, data-driven applicatio
 </div>
 <h2></h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulManan30&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</div>
-<h2></h2>
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulManan30&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
